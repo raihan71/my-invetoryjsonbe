@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "abonku",
+      "description": "testing abonku",
+      "image": "VVo63HrHo2yLbgp9.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "apotekucoylu",
+      "description": "apoteku",
+      "image": "wqx3AjPZIzwaeKLH.png"
+    }
+  ]
+}
